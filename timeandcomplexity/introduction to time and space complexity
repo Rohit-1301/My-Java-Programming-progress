@@ -1,0 +1,16 @@
+how to analyze time complexity
+for analyzing time complexity in a program we have to check the no. of operation is going to be performed in a programme
+
+
+Tyoes of time complexity are:
+1. Worst case time complexity:_ in this type of operation programme take more time as compare to the time it has to find the solution
+   It is represented by the O(n)
+
+2.Best case time complexity:_ in this type of operation the programme take the minimu time to find the solution
+    It is represented by the omega(1)
+
+3.Average time complexity:_ in this type of operation program is executed many time to check the average time it takes to find the solution
+    It is represented by the theta(n)
+
+    Now Space complexity
+It is defined as the extara memeory of the program and Space used in the program directly proportional to the time it has to find the solution
